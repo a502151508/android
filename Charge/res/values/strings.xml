@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">汇率换算</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_label">Say Hi</string>
+    <string name="name_hint">Your name</string>
+    <string name="btn_bye">Say Bye</string>
+    <string name="title_activity_rate">汇率换算</string>
+    <string name="editrmb_hint">人民币</string>
+    <string name="editOther_hint">外币</string>
+    <string name="btn_dollar_label">美元</string>
+    <string name="btn_euro_label">欧元</string>
+    <string name="btn_won_label">韩元</string>
+    <string name="open_cfg_label">修改汇率</string>
+    <string name="title_activity_rate_config">修改汇率</string>
+    <string name="btn_savecfg_label">保存汇率</string>
+    <string name="title_activity_amain">AMainActivity</string>
+
+</resources>
